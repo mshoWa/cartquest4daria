@@ -10,7 +10,7 @@ html{
 body {
     font-family: "Cormorant Infant", serif;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    height: 100vh;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -135,4 +135,5 @@ body {
     height: 20px;
   }
 }
+
 
